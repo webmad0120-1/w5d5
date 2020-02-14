@@ -15,8 +15,8 @@
 
 - Microlearning: web mashups
 - Github collaboration
-- Remove any impediments for the validation of your project - 10:30pm - 12:00pm
-- Get your project 2 validated - 12:00pm - 1:15pm
+- Remove any impediments for the validation of your project
+- Get your project 2 validated
 - Secret activity - 3pm onwards
 
 ## Activities
