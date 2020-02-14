@@ -23,10 +23,6 @@
 
 - No pair or daily. Continue coding your project 2 with your partner
 
-# Next - day w6d1
-
-- Continue coding your project 2 with your partner
-
 # Goals
 
 - Continue coding your project 2 with your partner
