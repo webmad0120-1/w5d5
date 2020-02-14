@@ -13,10 +13,10 @@
 
 # Today - day w5d5
 
-- Github collaboration - 9:30pm - 10:30pm
+- Microlearning: web mashups
+- Github collaboration
 - Remove any impediments for the validation of your project - 10:30pm - 12:00pm
 - Get your project 2 validated - 12:00pm - 1:15pm
-- Microlearning: web mashups - 1:15pm - 2:00pm
 - Secret activity - 3pm onwards
 
 ## Activities
